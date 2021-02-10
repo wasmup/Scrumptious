@@ -5,7 +5,7 @@ Go Scrum
 [Learning-mode](https://mlapshin.com/index.php/scrum-quizzes/sm-learning-mode)
 
 ## The Scrum Team
-The Scrum Team consists of a **Product Owner**, the **Development Team** (3 to 5 people), and a **Scrum Master**.
+The Scrum Team consists of a **Product Owner**, the **Development Team** (3 to 7 people), and a **Scrum Master**.
 Scrum Teams are **self-organizing** and **cross-functional**. Self-organizing teams choose how best to
 accomplish their work, rather than being directed by others outside the team. Cross-functional
 teams have all competencies needed to accomplish the work without depending on others not
