@@ -11,6 +11,9 @@ accomplish their work, rather than being directed by others outside the team. Cr
 teams have all competencies needed to accomplish the work without depending on others not
 part of the team.
 
+The essence of Scrum is a small team of people. The individual team is highly flexible and
+adaptive.
+
 ## Definition of Scrum
 Scrum (n): A framework within which people can address complex adaptive problems, while
 productively and creatively delivering products of the highest possible value.  
@@ -28,13 +31,11 @@ The Scrum framework consists of **Scrum Teams** and their associated roles, **ev
 **rules**. Each component within the framework serves a specific purpose and is essential to
 Scrum’s success and usage.
 
-The essence of Scrum is a small team of people. The individual team is highly flexible and
-adaptive.
 
 ## Scrum Theory
 Scrum is founded on empirical process control theory, or empiricism. Empiricism asserts that
-knowledge comes from experience and making decisions based on what is known. Scrum
-employs an iterative, incremental approach to optimize predictability and control risk.
+**knowledge comes from experience** and making decisions based on **what is known**. Scrum
+employs an **iterative**, **incremental approach** to optimize predictability and control risk.
 Three pillars uphold every implementation of empirical process control: **transparency**,
 **inspection**, and **adaptation**.
 
@@ -46,7 +47,7 @@ work with the Scrum roles, events, and artifacts.
 
 The Scrum Team and its stakeholders agree to be
 open about all the work and the challenges with performing the work. Scrum Team members
-respect each other to be capable, independent people.
+**respect** each other to be **capable**, **independent people**.
 
 
 ---
