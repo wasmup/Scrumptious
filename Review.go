@@ -1,6 +1,8 @@
 package main
 
 // Review struct
+// A “Done” increment is required at the Sprint Review.
+// Only members of the Development Team create the Increment
 type Review struct {
 }
 
