@@ -1,4 +1,4 @@
-.PHONY: all test push
+.PHONY: all test push run
 
 all:
 	go install -ldflags=-s
@@ -10,3 +10,6 @@ test:
 
 push:
 	git push
+
+run:
+	go run .
