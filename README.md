@@ -9,10 +9,14 @@ The Scrum Team consists of a **Product Owner**, the **Development Team** (3 to 7
 Scrum Teams are **self-organizing** and **cross-functional**. Self-organizing teams choose how best to
 accomplish their work, rather than being directed by others outside the team. Cross-functional
 teams have all competencies needed to accomplish the work without depending on others not
-part of the team.
-
-The essence of Scrum is a small team of people. The individual team is highly flexible and
-adaptive.
+part of the team.  
+The team model in Scrum is designed to optimize **flexibility**, **creativity**, and
+**productivity**.  
+The essence of Scrum is a small team of **people**. The individual team is highly flexible and
+adaptive.  
+Scrum Teams deliver products **iteratively** and **incrementally**, maximizing opportunities for
+**feedback**. Incremental deliveries of “Done” product ensure a potentially useful version of
+**working product is always available**.
 
 ## Definition of Scrum
 Scrum (n): A framework within which people can address complex adaptive problems, while
