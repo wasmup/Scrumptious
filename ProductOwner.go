@@ -15,6 +15,7 @@ package main
 // The Product Owner may do the above work, or have the Development Team do it. However, the
 // Product Owner remains accountable.
 type ProductOwner struct {
+	Product
 }
 
 // NewProductOwner creates a ProductOwner struct.

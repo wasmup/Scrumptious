@@ -4,6 +4,12 @@ Go Scrum
 [**Scrum**](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf)ptious [**Go**](https://golang.org/)lang.  
 [Learning-mode](https://mlapshin.com/index.php/scrum-quizzes/sm-learning-mode)
 
+## Note
+Scrum is free and offered in the Guide. Scrum’s roles, events, artifacts, and rules are **immutable**
+and although implementing only parts of Scrum is possible, the result is **not** Scrum. Scrum exists
+only in its entirety and functions well as a container for other techniques, methodologies, and
+practices.
+
 ## The Scrum Team
 The Scrum Team consists of a **Product Owner**, the **Development Team** (3 to 9 people), and a **Scrum Master**.
 Scrum Teams are **self-organizing** and **cross-functional**. Self-organizing teams choose how best to
